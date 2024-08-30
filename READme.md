@@ -21,7 +21,7 @@ This is a repository for the Datadog Fundamentals course! This repository contai
 - Demo: Alerts configuration.
  
 
-## Demo 4: Deploy a Demo Server Using an AWS CloudFormation Template
+## Demo: Deploy a Demo Server Using an AWS CloudFormation Template
 
 To follow along with the Datadog Fundamentals course, you'll need a server. The server will be used to represent the demo server being used by Globomantics to explore the features of the Datadog service.
 
